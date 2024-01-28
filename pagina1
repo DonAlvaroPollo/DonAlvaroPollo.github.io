@@ -1,0 +1,29 @@
+<html lang="es-ES">
+<head>
+<meta charset="utf-8">
+<title>Baloncesto</title>
+</head>
+<body style="background-color:grey">
+<h1 style="background-color:orange; font-size:50px">¿Como empeze en el basket?</h1>
+<p style="font-size:30px">Yo empeze en el balocesto gracias a mi amigo jesus hace 3 años y gracias a el ahora soy un fanatico del basket soy muy bueno jugando y estoy en el bormujo.</p>
+<img src="imagenes/basket.jpeg" width="300" height="225" alt="basket.genes/gim.jpeg" width="300" height="225" alt="gim.">
+<h2 style="color:blue; font-size:40px">¿contra que equipos juego? </h2>
+<ul>
+<li>Coria del rio</li>
+<li>Castilleja</li>
+<li>Pilas</li>
+<li>Bormujos</li>
+<li>Isla mayor</li>
+</ul>
+<h2 style="color:blue; font-size: 40px">Posicion en la liga</h2>
+<ol>
+<li>Bormujos</li>
+<li>Castilleja</li>
+<li>Pilas</li>
+<li>Coria del rio</li>
+<li>Isla mayor</li>
+</ol>
+<hr>
+<p> para volver pinchar <a href="file:///C:/Users/sonia/Desktop/index.html">aqui</a></p>
+</body>
+</html>
