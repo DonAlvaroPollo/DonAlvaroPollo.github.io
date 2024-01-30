@@ -1,0 +1,36 @@
+<html lang="es-ES">
+<head>
+<meta charset="utf-8">
+<title>Gimnasio</title>
+</head>
+<body style="background-color:grey">
+<h1 style="background-color:orange; font-size:50px">¿porque empeze en el gimnasio?</h1>
+<p style="font-size:30px">Yo empeze en el gimnasio debido a que no me gustaba mi fisico y queria cambiar por eso decidi apuntarme al Fabrick q es un muy buen gimnasio situado en gines, ademas de eso me motive ver las transformaciones de otras personas mi mayor motivacion fue David Laid. .</p>
+<img src="imagenes/basket.jpeg" width="300" height="225" alt="basket.genes/gim.jpeg" width="300" height="225" alt="gim.">
+<h2 style="color:blue; font-size: 40px">¿Que entreno en el gimnasio?</h2>
+<ul>
+<li>lunes: Brazo(biceps y triceps) </li>
+<li>martes: Pecho </li>
+<li>miercoles: Pierna </li>
+<li>jueves: Abs y espalda </li>
+<li>viernes: antebrazo </li>
+</ul>
+<h2 style="color:blue; font-size: 40px">Marcas de gimnasio</h2>
+<ol>
+<li>Gimshark</li>
+<li>Under armour</li>
+<li>Nike</li>
+<li>Adidas</li>
+<li>North face</li>
+</ol>
+<h2 style="color:blue; font-size: 40px">Mis idolos del gimnasio</h2>
+<ol>
+<li>David Laid</li>
+<li>Axel Martinez</li>
+<li>Jeff Seid<li>
+<li>Zizz</li>
+<li>Criss Bumpsted</li>
+<hr>
+<p> para volver pinchar <a href="file:///C:/Users/sonia/Desktop/index.html">aqui</a></p>
+</body>
+</html>
