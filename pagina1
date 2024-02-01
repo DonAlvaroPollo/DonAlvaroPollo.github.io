@@ -6,7 +6,7 @@
 <body style="background-color:grey">
 <h1 style="background-color:orange; font-size:50px">¿Como empeze en el basket?</h1>
 <p style="font-size:30px">Yo empeze en el balocesto gracias a mi amigo jesus hace 3 años y gracias a el ahora soy un fanatico del basket soy muy bueno jugando y estoy en el bormujo.</p>
-<img src="imagenes/basket.jpeg" width="300" height="225" alt="basket.genes/gim.jpeg" width="300" height="225" alt="gim.">
+<img src="imagenes/man-4648086_640.jpg.jpeg" width="300" height="225" alt="gim">
 <h2 style="color:blue; font-size:40px">¿contra que equipos juego? </h2>
 <ul>
 <li>Coria del rio</li>
@@ -24,6 +24,6 @@
 <li>Isla mayor</li>
 </ol>
 <hr>
-<p> para volver pinchar <a href="file:///home/usuario/Escritorio/index.html">aqui</a></p>
+<p> para volver pinchar <a href="file:///home/usuario/Escritorio/pagina web/index.html">aqui</a></p>
 </body>
 </html>
